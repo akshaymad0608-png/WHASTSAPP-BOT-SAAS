@@ -1,0 +1,9 @@
+{
+  "name": "WhatsAppBot AI - Smart Business Chat SaaS",
+  "description": "A comprehensive AI-powered WhatsApp automation dashboard for small businesses. Features include AI training, lead capture, real-time chat simulation, and business analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
